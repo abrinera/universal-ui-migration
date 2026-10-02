@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Universal UI Migration</h1>
+<h1>Skill: Universal UI Migration</h1>
 
 <p>Reproduce an interface while preserving the destination's architecture.</p>
 
