@@ -1,0 +1,4 @@
+interface:
+  display_name: "Universal UI Migration"
+  short_description: "Migrate UI and behavior while preserving the target stack"
+  default_prompt: "Use $universal-ui-migration to migrate the source UI, frontend behavior, and dummy data into the destination while preserving its architecture."
